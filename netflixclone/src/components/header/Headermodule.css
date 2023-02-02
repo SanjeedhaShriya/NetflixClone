@@ -1,0 +1,31 @@
+.headerWrapperHome{
+    padding : 30px 50px;
+    background-size: cover;
+    height: 60vh;
+    background-repeat: no-repeat;
+    background-position: top left;
+    background: url("../../assets/home-bg.jpg");
+
+
+}
+.navbarHome{
+    max-width: 2100px;
+    width: 100px;
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;
+}
+
+.signinBtn{
+    width: 100px;
+    height: auto;
+    color: white;
+    border: 0;
+    font-size: 15px;
+    border-radius: 5px;
+    cursor: pointer;
+    padding: 8px 18px;
+    border-radius: 5px;
+    text-decoration: none;
+    background-color: rgb(202, 36, 36);
+}
